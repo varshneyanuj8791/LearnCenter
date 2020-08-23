@@ -1,0 +1,49 @@
+
+
+.top_bar{background:#35D1E6;padding:10px 0;}
+.social_icons{margin-right:5px; color:#fff; font-size:22px;}
+.contact_info{ color:#fff; font-size:19px;}
+.my_menu{margin-top:20px;}
+
+ .btn {
+  border: 2px solid ;
+  width:100px;
+  height:40px;
+  background-color: white;
+  padding: 3px;
+  font-size: 20px;
+  font-family:monotype corsiva;
+  cursor: pointer;
+  margin:10px 0px 0px 0px;
+  border-radius:10px;
+  
+}
+.info {
+  border-color: #2196F3;
+  color: dodgerblue;
+}
+.info:hover {
+  background: #35d1e6;
+  color: white;
+}
+.menu_h
+{
+	float:right;
+	margin:0px 450px 0px 0px;
+}
+.menu_a{ float:right; margin:-40px 340px 0px 0px;}
+.menu_l{ float:right; margin:-40px 230px 0px 0px;}
+.menu_s{ float:right; margin:-40px 120px 0px 0px;}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .our_courses
+  {
+  	
+  	background-color:#35D1E6;
+  	
+  	margin-top:30px;
+  }

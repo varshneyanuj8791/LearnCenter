@@ -1,0 +1,196 @@
+/*---------------------------------------------------Home page -------------------------------------------*/
+
+.top_bar{background:#35D1E6;padding:10px 0;}
+.social_icons{margin-right:5px; color:#fff; font-size:22px;}
+.contact_info{ color:#fff; font-size:19px;}
+.my_menu{margin-top:20px;}
+
+/*---------------------------------------
+      HEARDER       
+  -----------------------------------------*/
+
+ .fixed-top
+ {
+   border:2px solid gray;
+   background:white;
+ }
+.logo
+{
+  margin-top:20px;
+}
+ .btn {
+  border: 0px solid ;
+  width:100px;
+  height:40px;
+  background-color: white;
+  padding: 3px;
+  font-size: 20px;
+  cursor: pointer;
+  margin:10px 0px 0px 0px;
+  border-radius:10px;
+  
+}
+.info {
+  border-color: #2196F3;
+  color: black;
+}
+.info:hover {
+  
+  background: #35d1e6;
+  color: white;
+}
+
+
+
+
+.menu_a{ float:left; margin:-40px 0px 0px 110px;}
+.menu_c{ float:left; margin:-40px 0px 0px 220px;}
+.menu_co{ float:left; margin:-40px 0px 0px 330px;}
+.menu_l{ float:left; margin:-40px 0px 0px 440px;}
+.menu_s{ float:left; margin:-40px 0px 0px 550px;}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .our_courses
+  {
+  	
+  	background-color:#f8f8f8;
+    padding-bottom: 20px;
+  	margin-top:30px;
+  }
+
+
+.img-responsive:hover
+{
+     border:4px solid #35d1e6;
+     border-radius:20px;
+}  /*---------------------------------------
+      CONTACT             
+  -----------------------------------------*/
+
+  #contact {
+    background: #35d1e6;
+  }
+
+  #contact h2 {
+    color: #ffffff;
+  }
+
+  #contact .section-title {
+    padding-bottom: 20px;
+  }
+
+  #contact h2 > small,
+  #contact p,
+  #contact a {
+    color: #f9f9f9;
+  }
+
+  #contact-form {
+    padding: 20px;
+    margin-top:20px;
+  }
+
+  #contact-form .col-md-12,
+  #contact-form .col-md-4 {
+    padding-left: 0;
+  }
+  
+  .form .form-control,
+  #contact-form .form-control {
+    border: 0;
+    border-radius: 5px;
+    box-shadow: none;
+    margin: 10px 0;
+  }
+
+  #contact-form input {
+    height: 50px;
+  }
+
+  #contact-form input[type='submit'] {
+    border-radius: 50px;
+    border: 1px solid transparent;
+  }
+
+  #contact-form input[type='submit']:hover {
+    background: transparent;
+    border-color: #ffffff;
+    color: #ffffff;
+  }
+  
+  .contact-image {
+    
+    padding: 20px;
+    margin-top:20px;
+  }
+
+   /*---------------------------------------
+      FOOTER
+  -----------------------------------------*/
+  .footer
+  {
+    background:#252020;
+  }
+  .foot{
+    padding-bottom:20px;
+  }
+  .middle ul{
+    padding:20px 0px 0px 30px;
+    list-style-type:circle;
+    color:white;
+  }
+ .middle ul li a
+ {
+     text-decoration:none;
+     color:silver;
+ }
+ .middle ul li a:hover{
+   color:white;
+ }
+ .third ul{
+  padding:20px 0px 0px 30px;
+  list-style-type:circle;
+  color:white;
+}
+.third ul li a
+{
+   text-decoration:none;
+   color:silver;
+}
+.third ul li a:hover{
+ color:white;
+}
+ .footer1
+ {
+   background:black;
+ }
+ .pull-right
+ {
+     padding-top:30px;
+ }
+
+ /*---------------------------------------------------Aboutus page -------------------------------------------*/
+
+ .about
+ {
+   padding-top: 100px;
+   background-image:url(../img/about.jpg);
+   background-size:100% 400px;
+    border:1px solid;
+    height:400px;
+ }
+
+  /*---------------------------------------------------Courses page -------------------------------------------*/
+
+  .course
+ {
+   padding-top: 100px;
+   background-image:url(../img/course.png);
+   background-size:100% 400px;
+    border:1px solid;
+    height:400px;
+ }
